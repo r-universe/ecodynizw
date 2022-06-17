@@ -1,0 +1,10 @@
+[
+  {
+    "package": "imageseg",
+    "oncran": true
+  },
+  {
+    "package": "vietnameseConverter",
+    "oncran": true
+  }
+]
