@@ -8,3 +8,8 @@
 	url = https://github.com/ecodynizw/imageseg
 	shallow = true
 	registered = true
+[submodule "vietnameseConverter"]
+	path = vietnameseConverter
+	url = https://github.com/ecodynizw/vietnameseconverter
+	shallow = true
+	registered = true
