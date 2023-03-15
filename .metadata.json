@@ -1,10 +1,10 @@
 [
   {
-    "package": "imageseg",
+    "package": "vietnameseConverter",
     "oncran": true
   },
   {
-    "package": "vietnameseConverter",
+    "package": "imageseg",
     "oncran": true
   }
 ]
